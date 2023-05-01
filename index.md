@@ -3,3 +3,6 @@
 ```
 $ Aca Duki salio muy fachero
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
